@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AB271202
-- 👀 I’m interested in web development and app development
+- 👀 I’m interested in web development, app development and python
 - 🌱 I’m currently learning HTML, CSS, JS and Django
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me -- [MAIL ME!](mailto:anishbanerjee2002@gmail.com)
