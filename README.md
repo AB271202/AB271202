@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AB271202
-<!--- 👀 I’m interested in web development, app development and python
-- 🌱 I’m currently learning HTML, CSS, JS and Django-->
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me -- [MAIL ME!](mailto:anishbanerjee2002@gmail.com)
+<h1 align="center">Hi 👋, I'm Anish Banerjee</h1>
+<hr>
+<h3 align="center">Junior Computer Science Undergraduate at IIT Delhi</h3>
 
-<!---
-AB271202/AB271202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me!</h3>
+<a href="https://www.linkedin.com/in/anish-banerjee-65442824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish banerjee" height="30" width="40" /></a>
