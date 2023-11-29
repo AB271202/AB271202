@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Banerjee</h1>
-<hr>
+
 <h3 align="center">Junior Computer Science Undergraduate at IIT Delhi</h3>
 
 <h3 align="left">Connect with me!</h3>
